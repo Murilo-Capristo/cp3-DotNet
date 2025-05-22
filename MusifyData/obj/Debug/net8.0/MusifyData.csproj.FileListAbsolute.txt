@@ -1,0 +1,17 @@
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\bin\Debug\net8.0\MusifyData.deps.json
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\bin\Debug\net8.0\MusifyData.runtimeconfig.json
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\bin\Debug\net8.0\MusifyData.dll
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\bin\Debug\net8.0\MusifyData.pdb
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\bin\Debug\net8.0\MusifyModel.dll
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\bin\Debug\net8.0\MusifyModel.pdb
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.csproj.AssemblyReference.cache
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.csproj.Up2Date
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.dll
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\refint\MusifyData.dll
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.pdb
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\MusifyData.genruntimeconfig.cache
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyData\obj\Debug\net8.0\ref\MusifyData.dll

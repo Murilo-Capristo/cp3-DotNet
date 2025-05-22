@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88407537-3C3D-4B65-A534-23586E987293}|cp3-dotnet\\cp3-dotnet.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88407537-3C3D-4B65-A534-23586E987293}|cp3-dotnet\\cp3-dotnet.csproj|solutionrelative:cp3-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifydata\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|solutionrelative:musifydata\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifydata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|solutionrelative:musifydata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifydata\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|solutionrelative:musifydata\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifydata\\migrations\\20250522013107_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|solutionrelative:musifydata\\migrations\\20250522013107_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88407537-3C3D-4B65-A534-23586E987293}|cp3-dotnet\\cp3-dotnet.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88407537-3C3D-4B65-A534-23586E987293}|cp3-dotnet\\cp3-dotnet.csproj|solutionrelative:cp3-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54E6A9E-5986-47F5-ABD9-F2D72ED8BB80}|MusifyModel\\MusifyModel.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifymodel\\musifymodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F54E6A9E-5986-47F5-ABD9-F2D72ED8BB80}|MusifyModel\\MusifyModel.csproj|solutionrelative:musifymodel\\musifymodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifydata\\musifydata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AACA6944-0FB8-4F92-8CDE-25AD62F5D65E}|MusifyData\\MusifyData.csproj|solutionrelative:musifydata\\musifydata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FEB05F-31EB-464F-9FC5-6C034B2BF80C}|MusifyBusiness\\MusifyBusiness.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifybusiness\\musifybusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88FEB05F-31EB-464F-9FC5-6C034B2BF80C}|MusifyBusiness\\MusifyBusiness.csproj|solutionrelative:musifybusiness\\musifybusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88407537-3C3D-4B65-A534-23586E987293}|cp3-dotnet\\cp3-dotnet.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\cp3-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88407537-3C3D-4B65-A534-23586E987293}|cp3-dotnet\\cp3-dotnet.csproj|solutionrelative:cp3-dotnet\\cp3-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FEB05F-31EB-464F-9FC5-6C034B2BF80C}|MusifyBusiness\\MusifyBusiness.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifybusiness\\musicabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FEB05F-31EB-464F-9FC5-6C034B2BF80C}|MusifyBusiness\\MusifyBusiness.csproj|solutionrelative:musifybusiness\\musicabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54E6A9E-5986-47F5-ABD9-F2D72ED8BB80}|MusifyModel\\MusifyModel.csproj|c:\\users\\labsfiap\\source\\repos\\cp3-dotnet\\musifymodel\\musicamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54E6A9E-5986-47F5-ABD9-F2D72ED8BB80}|MusifyModel\\MusifyModel.csproj|solutionrelative:musifymodel\\musicamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MusifyData\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\AppDbContext.cs",
+              "RelativeToolTip": "MusifyData\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:41:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MusifyData\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\AppDbContextFactory.cs",
+              "RelativeToolTip": "MusifyData\\AppDbContextFactory.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:12:54.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "cp3-dotnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\appsettings.json",
+              "RelativeToolTip": "cp3-dotnet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T00:43:44.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MusifyData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MusifyData\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:31:52.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250522013107_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\Migrations\\20250522013107_Initial.cs",
+              "RelativeDocumentMoniker": "MusifyData\\Migrations\\20250522013107_Initial.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\Migrations\\20250522013107_Initial.cs",
+              "RelativeToolTip": "MusifyData\\Migrations\\20250522013107_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:31:48.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "cp3-dotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\Program.cs",
+              "RelativeToolTip": "cp3-dotnet\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:04:27.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusifyData.csproj",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\MusifyData.csproj",
+              "RelativeDocumentMoniker": "MusifyData\\MusifyData.csproj",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyData\\MusifyData.csproj",
+              "RelativeToolTip": "MusifyData\\MusifyData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T00:42:16.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusifyModel.csproj",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyModel\\MusifyModel.csproj",
+              "RelativeDocumentMoniker": "MusifyModel\\MusifyModel.csproj",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyModel\\MusifyModel.csproj",
+              "RelativeToolTip": "MusifyModel\\MusifyModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T00:39:35.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusifyBusiness.csproj",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyBusiness\\MusifyBusiness.csproj",
+              "RelativeDocumentMoniker": "MusifyBusiness\\MusifyBusiness.csproj",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyBusiness\\MusifyBusiness.csproj",
+              "RelativeToolTip": "MusifyBusiness\\MusifyBusiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T00:38:40.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cp3-dotnet.csproj",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\cp3-dotnet.csproj",
+              "RelativeDocumentMoniker": "cp3-dotnet\\cp3-dotnet.csproj",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\cp3-dotnet\\cp3-dotnet.csproj",
+              "RelativeToolTip": "cp3-dotnet\\cp3-dotnet.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T00:54:52.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyBusiness\\MusicaBusiness.cs",
+              "RelativeDocumentMoniker": "MusifyBusiness\\MusicaBusiness.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyBusiness\\MusicaBusiness.cs",
+              "RelativeToolTip": "MusifyBusiness\\MusicaBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:37:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MusicaModel.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyModel\\MusicaModel.cs",
+              "RelativeDocumentMoniker": "MusifyModel\\MusicaModel.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\cp3-dotnet\\MusifyModel\\MusicaModel.cs",
+              "RelativeToolTip": "MusifyModel\\MusicaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:33:28.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

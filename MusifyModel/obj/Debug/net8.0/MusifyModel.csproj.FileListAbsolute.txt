@@ -1,0 +1,11 @@
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\bin\Debug\net8.0\MusifyModel.deps.json
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\bin\Debug\net8.0\MusifyModel.dll
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\bin\Debug\net8.0\MusifyModel.pdb
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\MusifyModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\MusifyModel.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\MusifyModel.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\MusifyModel.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\MusifyModel.dll
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\refint\MusifyModel.dll
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\MusifyModel.pdb
+C:\Users\labsfiap\source\repos\cp3-dotnet\MusifyModel\obj\Debug\net8.0\ref\MusifyModel.dll

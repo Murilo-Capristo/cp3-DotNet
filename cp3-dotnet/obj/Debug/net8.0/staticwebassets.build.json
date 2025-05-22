@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CEXM+pOM4mcJZYV6tRrM2IoqS+VofsVCwbyrcCbDPuk=",
+  "Source": "cp3-dotnet",
+  "BasePath": "_content/cp3-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
